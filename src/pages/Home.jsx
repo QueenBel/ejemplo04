@@ -6,7 +6,7 @@ import Banner from "../components/Banner";
 
 const Home = () => {
   return (
-    <div className="min-h-[1800px]">
+    <div className="min-h-[1800px] bg-gray-400">
       <Banner />
       <HouseList />
     </div>
